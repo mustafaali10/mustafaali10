@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mustafaali10
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking for an Internship preferrably Remote
+- 🌱 I’m an Android Developer.
+- 💞️ I’m an Engineering Student Graduating next year
+- 💻 I am Looking for an Internship preferrably Remote
 - 📫 Reach me on twitter - mustafa_ali_10
 
 <!---
