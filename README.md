@@ -3,7 +3,7 @@
 - 🌱 I’m an Android Developer.
 - 💞️ I’m an Engineering Student Graduating next year
 - 💻 I am Looking for an Internship preferrably Remote
-- 📫 Reach me on twitter - mustafa_ali_10
+- 📫 Reach me on twitter - mustafastwt
 
 <!---
 mustafaali10/mustafaali10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
