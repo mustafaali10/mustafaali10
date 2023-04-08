@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mustafaali10
+- 👋 Hi, I’m Mohammed Mustafa Ali
 - 👀 I’m interested in Software Development
-- 🌱 I’m an Android Developer.
-- 💞️ I’m an Engineering Student Graduating this year
-- 💻 I am Looking for an Internship preferrably Remote
+- 🌱 I’m an Android Developer, building apps using Native Kotlin.
+- 💞️ I’m a Computer Science Engineering Student Graduating this year.
+- 💻 I am Looking for an Internship preferrably Remote.
 - 📫 Reach me on twitter - mustafastwt
 
 <!---
