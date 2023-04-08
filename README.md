@@ -2,9 +2,9 @@
  
  👀 I’m interested in Software Development
  
- 🌱 I’m an Android Developer, building apps using Native Kotlin.
+ 📱 I’m an Android Developer, building apps using Native Kotlin.
  
- 💞️ I’m a Computer Science Engineering Student Graduating this year.
+ 👨‍💻 I’m a Computer Science Engineering Student Graduating this year.
  
  💻 I am Looking for an Internship preferrably Remote.
  
