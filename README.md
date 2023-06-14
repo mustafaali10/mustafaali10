@@ -6,7 +6,7 @@
  
  👨‍💻 I’m a Computer Science Engineering Student Graduating this year.
  
- 💻 I am Looking for an Internship preferrably Remote.
+ 💻 I am Looking for a Full Time Role preferrably Remote.
  
  📫 Reach me on twitter - mustafastwt
  
