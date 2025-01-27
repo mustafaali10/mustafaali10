@@ -1,12 +1,10 @@
  👋 Hi, I’m Mohammed Mustafa Ali
  
- 👀 I’m interested in Software Development
+ 👀 Check out my app on the PlayStore : https://play.google.com/store/apps/details?id=com.mohammedmustafaali.screenshout&pcampaignid=web_share
  
  📱 I’m an Android Developer, building apps using Native Kotlin.
  
- 👨‍💻 I’m a Computer Science Engineering Student Graduating this year.
- 
- 💻 I am Looking for a Full Time Role preferrably Remote.
+ 👨‍💻 Masters in Computer Science.
  
  📫 Reach me on twitter - mustafastwt
  
