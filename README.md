@@ -1,6 +1,6 @@
  👋 Hi, I’m Mohammed Mustafa Ali
  
- 👀 Check out my app on the PlayStore : https://play.google.com/store/apps/details?id=com.mohammedmustafaali.screenshout&pcampaignid=web_share
+ 👀 Check out my app on the PlayStore : https://play.google.com/store/apps/details?id=com.mustafa.blackfocus
  
  📱 I’m an Android Developer, building apps using Native Kotlin.
  
